@@ -71,6 +71,18 @@
       }
     },
     {
+      "id": "featured-categories",
+      "type": "categories",
+      "title": "Categorías Destacadas",
+      "enabled": true,
+      "order": 12,
+      "categoryIds": ["electronics", "clothing", "home"],
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false
+      }
+    },
+    {
       "id": "promotional-banner-1",
       "type": "banners",
       "enabled": true,
@@ -78,7 +90,8 @@
       "layout": {
         "height": 130,
         "fullWidth": false
-      }
+      },
+      "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales"
     },
     {
       "id": "for-you",
@@ -183,6 +196,19 @@
       "layout": {
         "height": 130,
         "fullWidth": false
+      },
+      "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales"
+    },
+    {
+      "id": "featured-categories",
+      "type": "categories",
+      "title": "Categorías Destacadas",
+      "enabled": false,
+      "order": 12,
+      "categoryIds": ["electronics", "clothing", "home"],
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false
       }
     }
   ],
