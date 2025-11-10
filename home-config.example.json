@@ -1,0 +1,197 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2025-11-10T12:00:00Z",
+  "banners": {
+    "hero": [
+      {
+        "id": "hero-1",
+        "title": "Bienvenido a KLIQUEA",
+        "subtitle": "Descubre las mejores ofertas en moda y tecnología",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop",
+        "cta": "Explorar",
+        "autoChange": true,
+        "changeInterval": 4
+      },
+      {
+        "id": "hero-2",
+        "title": "Nuevos Productos",
+        "subtitle": "Descubre las últimas tendencias en moda y tecnología",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
+        "cta": "Explorar",
+        "autoChange": true,
+        "changeInterval": 4
+      },
+      {
+        "id": "hero-3",
+        "title": "Envío Gratis",
+        "subtitle": "En pedidos superiores a $50",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
+        "cta": "Ver Ofertas",
+        "autoChange": true,
+        "changeInterval": 4
+      }
+    ],
+    "promotional": [
+      {
+        "id": "promo-1",
+        "title": "Ofertas Especiales",
+        "subtitle": "Descuentos exclusivos por tiempo limitado",
+        "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=200&fit=crop",
+        "cta": "Ver Ofertas",
+        "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales"
+      }
+    ],
+    "autoChangeEnabled": true,
+    "changeInterval": 4
+  },
+  "sections": [
+    {
+      "id": "departments",
+      "type": "categories",
+      "title": "Departamentos",
+      "enabled": true,
+      "order": 1,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false
+      }
+    },
+    {
+      "id": "categories",
+      "type": "categories",
+      "title": "Categorías",
+      "enabled": true,
+      "order": 2,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false
+      }
+    },
+    {
+      "id": "promotional-banner-1",
+      "type": "banners",
+      "enabled": true,
+      "order": 3,
+      "layout": {
+        "height": 130,
+        "fullWidth": false
+      }
+    },
+    {
+      "id": "for-you",
+      "type": "products",
+      "title": "Para Ti",
+      "enabled": true,
+      "order": 4,
+      "dataSource": {
+        "type": "api",
+        "endpoint": "personalized"
+      },
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "trending",
+      "type": "products",
+      "title": "Tendencias",
+      "enabled": true,
+      "order": 5,
+      "dataSource": {
+        "type": "api",
+        "endpoint": "trending"
+      },
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "seasonal-collection",
+      "type": "seasonal",
+      "title": "Colección de Temporada",
+      "enabled": true,
+      "order": 6,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "bestsellers",
+      "type": "products",
+      "title": "Más Vendidos",
+      "enabled": true,
+      "order": 7,
+      "dataSource": {
+        "type": "api",
+        "endpoint": "bestsellers"
+      },
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "new-arrivals",
+      "type": "products",
+      "title": "Nuevos Ingresos",
+      "enabled": true,
+      "order": 8,
+      "dataSource": {
+        "type": "api",
+        "endpoint": "new-arrivals"
+      },
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "large-promo-banner",
+      "type": "promotional",
+      "title": "Grandes Descuentos",
+      "subtitle": "Hasta 70% off en productos seleccionados",
+      "enabled": true,
+      "order": 9,
+      "layout": {
+        "height": 200,
+        "fullWidth": true
+      }
+    },
+    {
+      "id": "explore-categories",
+      "type": "categories",
+      "title": "Explora por Categoría",
+      "enabled": true,
+      "order": 10,
+      "layout": {
+        "columns": 3,
+        "showHeader": true,
+        "showSeeAll": false
+      }
+    },
+    {
+      "id": "promotional-banner-2",
+      "type": "banners",
+      "enabled": true,
+      "order": 11,
+      "layout": {
+        "height": 130,
+        "fullWidth": false
+      }
+    }
+  ],
+  "theme": {
+    "primaryColor": "#007AFF",
+    "secondaryColor": "#5856D6",
+    "backgroundColor": "#FFFFFF"
+  },
+  "features": {
+    "enableSearch": true,
+    "enableFilters": true,
+    "enableFavorites": true,
+    "enableCart": true
+  }
+}
