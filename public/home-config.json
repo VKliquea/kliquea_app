@@ -1,6 +1,6 @@
 {
   "version": "1.0.7",
-  "lastUpdated": "2025-11-10T22:43:09.412Z",
+  "lastUpdated": "2025-11-10T22:46:34.619Z",
   "banners": {
     "hero": [
       {
@@ -256,7 +256,7 @@
   "features": {
     "enableSearch": true,
     "enableFilters": true,
-    "enableFavorites": true,
+    "enableFavorites": false,
     "enableCart": true
   },
   "footer": {
