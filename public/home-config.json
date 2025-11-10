@@ -1,6 +1,6 @@
 {
   "version": "1.0.7",
-  "lastUpdated": "2025-11-10T22:47:32.861Z",
+  "lastUpdated": "2025-11-10T22:48:22.421Z",
   "banners": {
     "hero": [
       {
@@ -48,6 +48,16 @@
         "ctaAction": "/plp/discounted?collectionId=153&title=Ofertas%20Especiales",
         "type": "promotional",
         "collectionId": "153"
+      },
+      {
+        "id": "promotional-banner-1762814862638",
+        "title": "Nuevo Banner Promocional",
+        "subtitle": "Rewsr",
+        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/1d5b02c5-9bc0-47f6-b5ad-e677acca689a___8dd3f2bec0ba6c82cd729002f85babab.png",
+        "cta": "Explorar",
+        "ctaAction": "/plp/discounted?collectionId=191&title=Nuevo%20Banner%20Promocional",
+        "collectionId": "191",
+        "type": "promotional"
       }
     ],
     "autoChangeEnabled": true,
