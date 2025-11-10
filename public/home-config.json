@@ -1,17 +1,19 @@
 {
   "version": "1.0.6",
-  "lastUpdated": "2025-11-10T22:26:59.166Z",
+  "lastUpdated": "2025-11-10T22:30:30.900Z",
   "banners": {
     "hero": [
       {
         "id": "hero-1",
         "title": "Bienvenido a KLIQUEA",
         "subtitle": "Descubre las mejores ofertas en moda y tecnología",
-        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop",
+        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/f64fa7b8-5de7-477e-8cf5-4fa367b31639___158d00f6ddf68a872d0c51fb0df4f78a.png",
         "cta": "Explorar",
-        "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
+        "ctaAction": "/plp/discounted?collectionId=265&title=Bienvenido%20a%20KLIQUEA",
         "autoChange": true,
-        "changeInterval": 4
+        "changeInterval": 10,
+        "type": "hero",
+        "collectionId": "265"
       },
       {
         "id": "hero-2",
