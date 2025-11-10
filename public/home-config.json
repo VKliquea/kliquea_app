@@ -1,6 +1,6 @@
 {
   "version": "1.0.7",
-  "lastUpdated": "2025-11-10T22:48:22.421Z",
+  "lastUpdated": "2025-11-10T22:48:57.184Z",
   "banners": {
     "hero": [
       {
@@ -261,6 +261,22 @@
         "type": "api",
         "endpoint": "trending"
       }
+    },
+    {
+      "id": "promotional-1762814916430",
+      "type": "promotional",
+      "title": "Nueva sección promotional",
+      "enabled": true,
+      "order": 16,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false,
+        "height": 200,
+        "fullWidth": true
+      },
+      "subtitle": "Descripción del banner promocional",
+      "ctaAction": "/plp/discounted?collectionId=149&title=Nueva%20secci%C3%B3n%20promotional",
+      "collectionId": "149"
     }
   ],
   "features": {
