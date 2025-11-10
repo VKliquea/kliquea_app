@@ -1,6 +1,6 @@
 {
   "version": "1.0.6",
-  "lastUpdated": "2025-11-10T22:41:01.808Z",
+  "lastUpdated": "2025-11-10T22:43:02.620Z",
   "banners": {
     "hero": [
       {
@@ -45,7 +45,9 @@
         "subtitle": "Descuentos exclusivos por tiempo limitado",
         "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=200&fit=crop",
         "cta": "Ver Ofertas",
-        "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales"
+        "ctaAction": "/plp/discounted?collectionId=153&title=Ofertas%20Especiales",
+        "type": "promotional",
+        "collectionId": "153"
       }
     ],
     "autoChangeEnabled": true,
@@ -81,8 +83,12 @@
       "order": 3,
       "layout": {
         "height": 130,
-        "fullWidth": false
-      }
+        "fullWidth": true,
+        "showHeader": true
+      },
+      "title": "ER",
+      "collectionId": "148",
+      "ctaAction": "/plp/discounted?collectionId=148&title=ER"
     },
     {
       "id": "for-you",
