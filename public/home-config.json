@@ -1,6 +1,6 @@
 {
   "version": "1.0.7",
-  "lastUpdated": "2025-11-10T22:46:34.619Z",
+  "lastUpdated": "2025-11-10T22:47:32.861Z",
   "banners": {
     "hero": [
       {
@@ -256,7 +256,7 @@
   "features": {
     "enableSearch": true,
     "enableFilters": true,
-    "enableFavorites": false,
+    "enableFavorites": true,
     "enableCart": true
   },
   "footer": {
@@ -285,14 +285,6 @@
       {
         "title": "Términos y Condiciones",
         "route": "/terms"
-      },
-      {
-        "title": "Envíos y Devoluciones",
-        "route": "/shipping"
-      },
-      {
-        "title": "Preguntas Frecuentes",
-        "route": "/faq"
       },
       {
         "title": "Contacto",
