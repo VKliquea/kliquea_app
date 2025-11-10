@@ -1,6 +1,6 @@
 {
   "version": "1.0.6",
-  "lastUpdated": "2025-11-10T21:33:46.800Z",
+  "lastUpdated": "2025-11-10T22:26:59.166Z",
   "banners": {
     "hero": [
       {
@@ -203,7 +203,7 @@
       "id": "featured-categories",
       "type": "categories",
       "title": "Categorías Destacadas",
-      "enabled": false,
+      "enabled": true,
       "order": 13,
       "categoryIds": [
         "electronics",
