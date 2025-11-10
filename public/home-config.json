@@ -1,6 +1,6 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-10T21:10:52.433Z",
+  "lastUpdated": "2025-11-10T21:12:57.315Z",
   "banners": {
     "hero": [
       {
@@ -51,9 +51,9 @@
   },
   "sections": [
     {
-      "id": "departments",
+      "id": "categories",
       "type": "categories",
-      "title": "Departamentos",
+      "title": "Categorías",
       "enabled": true,
       "order": 1,
       "layout": {
@@ -62,9 +62,9 @@
       }
     },
     {
-      "id": "categories",
+      "id": "departments",
       "type": "categories",
-      "title": "Categorías",
+      "title": "Departamentos",
       "enabled": true,
       "order": 2,
       "layout": {
