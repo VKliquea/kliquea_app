@@ -9,6 +9,7 @@
         "subtitle": "Descubre las mejores ofertas en moda y tecnología",
         "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop",
         "cta": "Explorar",
+        "ctaAction": "/products/all",
         "autoChange": true,
         "changeInterval": 4
       },
@@ -18,6 +19,7 @@
         "subtitle": "Descubre las últimas tendencias en moda y tecnología",
         "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
         "cta": "Explorar",
+        "ctaAction": "/products/all",
         "autoChange": true,
         "changeInterval": 4
       },
@@ -27,6 +29,7 @@
         "subtitle": "En pedidos superiores a $50",
         "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
         "cta": "Ver Ofertas",
+        "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
         "autoChange": true,
         "changeInterval": 4
       }
