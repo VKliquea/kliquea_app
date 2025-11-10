@@ -1,6 +1,6 @@
 {
   "version": "1.0.6",
-  "lastUpdated": "2025-11-10T22:30:30.900Z",
+  "lastUpdated": "2025-11-10T22:32:00.712Z",
   "banners": {
     "hero": [
       {
@@ -19,13 +19,13 @@
         "id": "hero-2",
         "title": "Nuevos Productos",
         "subtitle": "Descubre las últimas tendencias en moda y tecnología",
-        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
+        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/a1744836-50b8-4581-a43b-6c5d846a77e5___4a8628185f44cbe22b05b64a2e74bf29.png",
         "cta": "Explorar",
-        "ctaAction": "/plp/discounted?collectionId=260&title=Nuevos%20Productos",
+        "ctaAction": "/plp/discounted?collectionId=289&title=Nuevos%20Productos",
         "autoChange": true,
         "changeInterval": 4,
         "type": "hero",
-        "collectionId": "260"
+        "collectionId": "289"
       },
       {
         "id": "hero-3",
