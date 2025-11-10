@@ -1,0 +1,318 @@
+{
+  "version": "1.0.2",
+  "lastUpdated": "2025-11-10T21:03:23.545Z",
+  "banners": {
+    "hero": [
+      {
+        "id": "hero-1",
+        "title": "Bienvenido a KLIQUEA",
+        "subtitle": "Descubre las mejores ofertas en moda y tecnología",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop",
+        "cta": "Explorar",
+        "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
+        "autoChange": true,
+        "changeInterval": 4
+      },
+      {
+        "id": "hero-2",
+        "title": "Nuevos Productos",
+        "subtitle": "Descubre las últimas tendencias en moda y tecnología",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
+        "cta": "Explorar",
+        "ctaAction": "/plp/discounted?collectionId=260&title=Nuevos%20Productos",
+        "autoChange": true,
+        "changeInterval": 4,
+        "type": "hero",
+        "collectionId": "260"
+      },
+      {
+        "id": "hero-3",
+        "title": "Envío Gratis",
+        "subtitle": "En pedidos superiores a $50",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
+        "cta": "Ver Ofertas",
+        "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
+        "autoChange": true,
+        "changeInterval": 4
+      }
+    ],
+    "promotional": [
+      {
+        "id": "promo-1",
+        "title": "Ofertas Especiales",
+        "subtitle": "Descuentos exclusivos por tiempo limitado",
+        "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=200&fit=crop",
+        "cta": "Ver Ofertas",
+        "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales"
+      }
+    ],
+    "autoChangeEnabled": true,
+    "changeInterval": 4
+  },
+  "sections": [
+    {
+      "id": "departments",
+      "type": "categories",
+      "title": "Departamentos",
+      "enabled": true,
+      "order": 1,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false
+      }
+    },
+    {
+      "id": "categories",
+      "type": "categories",
+      "title": "Categorías",
+      "enabled": true,
+      "order": 2,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false
+      }
+    },
+    {
+      "id": "promotional-banner-1",
+      "type": "banners",
+      "enabled": true,
+      "order": 3,
+      "layout": {
+        "height": 130,
+        "fullWidth": false
+      }
+    },
+    {
+      "id": "for-you",
+      "type": "products",
+      "title": "Para Ti",
+      "enabled": true,
+      "order": 4,
+      "dataSource": {
+        "type": "api",
+        "endpoint": "personalized"
+      },
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "trending",
+      "type": "products",
+      "title": "Tendencias",
+      "enabled": true,
+      "order": 5,
+      "dataSource": {
+        "type": "api",
+        "endpoint": "trending"
+      },
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "seasonal-collection",
+      "type": "seasonal",
+      "title": "Colección de Temporada",
+      "enabled": true,
+      "order": 6,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "bestsellers",
+      "type": "products",
+      "title": "Más Vendidos",
+      "enabled": true,
+      "order": 7,
+      "dataSource": {
+        "type": "api",
+        "endpoint": "bestsellers"
+      },
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "new-arrivals",
+      "type": "products",
+      "title": "Nuevos Ingresos",
+      "enabled": true,
+      "order": 8,
+      "dataSource": {
+        "type": "api",
+        "endpoint": "new-arrivals"
+      },
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "promotional-banner-3",
+      "type": "banners",
+      "enabled": true,
+      "order": 9,
+      "layout": {
+        "height": 130,
+        "fullWidth": false
+      },
+      "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales"
+    },
+    {
+      "id": "large-promo-banner",
+      "type": "promotional",
+      "title": "Grandes Descuentos",
+      "subtitle": "Hasta 70% off en productos seleccionados",
+      "enabled": true,
+      "order": 10,
+      "layout": {
+        "height": 200,
+        "fullWidth": true
+      }
+    },
+    {
+      "id": "explore-categories",
+      "type": "categories",
+      "title": "Explora por Categoría",
+      "enabled": true,
+      "order": 11,
+      "layout": {
+        "columns": 3,
+        "showHeader": true,
+        "showSeeAll": false
+      }
+    },
+    {
+      "id": "promotional-banner-2",
+      "type": "banners",
+      "enabled": true,
+      "order": 12,
+      "layout": {
+        "height": 130,
+        "fullWidth": false
+      },
+      "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales"
+    },
+    {
+      "id": "featured-categories",
+      "type": "categories",
+      "title": "Categorías Destacadas",
+      "enabled": false,
+      "order": 13,
+      "categoryIds": [
+        "electronics",
+        "clothing",
+        "home"
+      ],
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false
+      }
+    },
+    {
+      "id": "banners-1762807017159",
+      "type": "banners",
+      "title": "Nueva sección banners",
+      "enabled": true,
+      "order": 14,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false,
+        "height": 130,
+        "fullWidth": false
+      },
+      "ctaAction": ""
+    },
+    {
+      "id": "products-1762807259295",
+      "type": "products",
+      "title": "Nueva sección products",
+      "enabled": true,
+      "order": 15,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      },
+      "dataSource": {
+        "type": "api",
+        "endpoint": "trending"
+      }
+    }
+  ],
+  "features": {
+    "enableSearch": true,
+    "enableFilters": true,
+    "enableFavorites": true,
+    "enableCart": true
+  },
+  "footer": {
+    "brandName": "KLIQUEA",
+    "brandDescription": "Tu tienda online de confianza para moda, tecnología y hogar",
+    "contactInfo": {
+      "phone": "+1 (234) 567-8900",
+      "email": "contacto@kliquea.com",
+      "whatsapp": "1234567890"
+    },
+    "socialLinks": {
+      "facebook": "https://facebook.com/kliquea",
+      "instagram": "https://instagram.com/kliquea",
+      "twitter": "https://twitter.com/kliquea",
+      "tiktok": "https://tiktok.com/@kliquea"
+    },
+    "quickLinks": [
+      {
+        "title": "Sobre Nosotros",
+        "route": "/about"
+      },
+      {
+        "title": "Política de Privacidad",
+        "route": "/privacy"
+      },
+      {
+        "title": "Términos y Condiciones",
+        "route": "/terms"
+      },
+      {
+        "title": "Envíos y Devoluciones",
+        "route": "/shipping"
+      },
+      {
+        "title": "Preguntas Frecuentes",
+        "route": "/faq"
+      },
+      {
+        "title": "Contacto",
+        "route": "/contact"
+      }
+    ],
+    "paymentMethods": [
+      {
+        "name": "Visa",
+        "icon": "credit-card"
+      },
+      {
+        "name": "Mastercard",
+        "icon": "credit-card"
+      },
+      {
+        "name": "PayPal",
+        "icon": "wallet"
+      },
+      {
+        "name": "Apple Pay",
+        "icon": "phone-portrait"
+      }
+    ],
+    "copyright": "© 2025 KLIQUEA. Todos los derechos reservados.",
+    "showPaymentMethods": true,
+    "showContactInfo": true,
+    "showSocialLinks": true,
+    "showLegalLinks": true
+  }
+}
