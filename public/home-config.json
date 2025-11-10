@@ -1,6 +1,6 @@
 {
   "version": "1.0.5",
-  "lastUpdated": "2025-11-10T21:20:52.531Z",
+  "lastUpdated": "2025-11-10T21:21:19.251Z",
   "banners": {
     "hero": [
       {
@@ -65,7 +65,7 @@
       "id": "departments",
       "type": "categories",
       "title": "Departamentos",
-      "enabled": false,
+      "enabled": true,
       "order": 2,
       "layout": {
         "showHeader": true,
