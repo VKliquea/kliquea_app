@@ -1,18 +1,8 @@
 {
   "version": "1.0.9",
-  "lastUpdated": "2025-11-11T21:14:58.510Z",
+  "lastUpdated": "2025-11-11T21:15:39.135Z",
   "banners": {
     "hero": [
-      {
-        "id": "hero-3",
-        "title": "Envío Gratis",
-        "subtitle": "En pedidos superiores a $50",
-        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
-        "cta": "Ver Ofertas",
-        "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
-        "autoChange": true,
-        "changeInterval": 4
-      },
       {
         "id": "hero-1",
         "title": "Bienvenido a KLIQUEA",
@@ -48,6 +38,16 @@
         "changeInterval": 4,
         "type": "hero",
         "collectionId": "289"
+      },
+      {
+        "id": "hero-3",
+        "title": "Envío Gratis",
+        "subtitle": "En pedidos superiores a $50",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
+        "cta": "Ver Ofertas",
+        "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
+        "autoChange": true,
+        "changeInterval": 4
       }
     ],
     "promotional": [
