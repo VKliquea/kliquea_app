@@ -1,1 +1,418 @@
- 
+{
+  "version": "1.0.9",
+  "lastUpdated": "2025-11-11T01:24:53.174Z",
+  "banners": {
+    "hero": [
+      {
+        "id": "hero-1",
+        "title": "Bienvenido a KLIQUEA",
+        "subtitle": "Descubre las mejores ofertas en moda y tecnología",
+        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/f64fa7b8-5de7-477e-8cf5-4fa367b31639___158d00f6ddf68a872d0c51fb0df4f78a.png",
+        "cta": "Explorar",
+        "ctaAction": "/plp/discounted?collectionId=265&title=Bienvenido%20a%20KLIQUEA",
+        "autoChange": true,
+        "changeInterval": 10,
+        "type": "hero",
+        "collectionId": "265"
+      },
+      {
+        "id": "hero-2",
+        "title": "Nuevos Productos",
+        "subtitle": "Descubre las últimas tendencias en moda y tecnología",
+        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/21a121c3-3dbe-49af-8401-2c3a6d11e5b8___8bfae9fbfc4e5f8853b434547c996665.png",
+        "cta": "Explorar",
+        "ctaAction": "/plp/discounted?collectionId=289&title=Nuevos%20Productos",
+        "autoChange": true,
+        "changeInterval": 4,
+        "type": "hero",
+        "collectionId": "289"
+      },
+      {
+        "id": "hero-3",
+        "title": "Envío Gratis",
+        "subtitle": "En pedidos superiores a $50",
+        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
+        "cta": "Ver Ofertas",
+        "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
+        "autoChange": true,
+        "changeInterval": 4
+      },
+      {
+        "id": "hero-banner-1762822819343",
+        "title": "Nuevo Banner Hero",
+        "subtitle": "TES",
+        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/7018ea2d-ab96-425f-9ac2-76758930b63b___47e50ea7afac89b978f7e955e78bd396.png",
+        "cta": "Explorar",
+        "ctaAction": "/plp/discounted?collectionId=151&title=Nuevo%20Banner%20Hero",
+        "collectionId": "151",
+        "autoChange": true,
+        "changeInterval": 40,
+        "type": "hero"
+      }
+    ],
+    "promotional": [
+      {
+        "id": "promo-1",
+        "title": "Ofertas Especiales",
+        "subtitle": "Descuentos exclusivos por tiempo limitado",
+        "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=200&fit=crop",
+        "cta": "Ver Ofertas",
+        "ctaAction": "/plp/discounted?collectionId=153&title=Ofertas%20Especiales",
+        "type": "promotional",
+        "collectionId": "153"
+      },
+      {
+        "id": "promotional-banner-1762814862638",
+        "title": "Nuevo Banner Promocional",
+        "subtitle": "Rewsr",
+        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/1d5b02c5-9bc0-47f6-b5ad-e677acca689a___8dd3f2bec0ba6c82cd729002f85babab.png",
+        "cta": "Explorar",
+        "ctaAction": "/plp/discounted?collectionId=191&title=Nuevo%20Banner%20Promocional",
+        "collectionId": "191",
+        "type": "promotional"
+      }
+    ],
+    "autoChangeEnabled": true,
+    "changeInterval": 4
+  },
+  "sections": [
+    {
+      "id": "categories",
+      "type": "categories",
+      "title": "Categorías",
+      "enabled": true,
+      "order": 1,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false
+      },
+      "data": {
+        "categories": [
+          {
+            "id": 2974,
+            "name": "Manualidades",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/2974",
+            "order": 1
+          },
+          {
+            "id": 2954,
+            "name": "Cerámica",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/2954",
+            "order": 2
+          },
+          {
+            "id": 2961,
+            "name": "Escultura",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/2961",
+            "order": 3
+          }
+        ]
+      }
+    },
+    {
+      "id": "departments",
+      "type": "categories",
+      "title": "Departamentos",
+      "enabled": true,
+      "order": 2,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false
+      },
+      "data": {
+        "categories": [
+          {
+            "id": 25,
+            "name": "Entretenimiento",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/25",
+            "order": 1
+          },
+          {
+            "id": 1,
+            "name": "Mascotas",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/1",
+            "order": 2
+          },
+          {
+            "id": 3009,
+            "name": "Eventos Familiares y Culturales",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/3009",
+            "order": 3
+          },
+          {
+            "id": 3010,
+            "name": "Comedia y Entretenimiento General",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/3010",
+            "order": 4
+          },
+          {
+            "id": 477,
+            "name": "Electrónica",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/477",
+            "order": 5
+          }
+        ]
+      }
+    },
+    {
+      "id": "promotional-banner-1",
+      "type": "banners",
+      "enabled": true,
+      "order": 3,
+      "layout": {
+        "height": 130,
+        "fullWidth": true,
+        "showHeader": true
+      },
+      "title": "ER",
+      "collectionId": "148",
+      "ctaAction": "/plp/discounted?collectionId=148&title=ER"
+    },
+    {
+      "id": "for-you",
+      "type": "products",
+      "title": "Para Ti",
+      "enabled": true,
+      "order": 4,
+      "dataSource": {
+        "type": "api",
+        "endpoint": "personalized"
+      },
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "trending",
+      "type": "products",
+      "title": "Tendencias",
+      "enabled": true,
+      "order": 5,
+      "dataSource": {
+        "type": "api",
+        "endpoint": "trending"
+      },
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "seasonal-collection",
+      "type": "seasonal",
+      "title": "Colección de Temporada",
+      "enabled": true,
+      "order": 6,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "bestsellers",
+      "type": "products",
+      "title": "Más Vendidos",
+      "enabled": true,
+      "order": 7,
+      "dataSource": {
+        "type": "api",
+        "endpoint": "bestsellers"
+      },
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "new-arrivals",
+      "type": "products",
+      "title": "Nuevos Ingresos",
+      "enabled": true,
+      "order": 8,
+      "dataSource": {
+        "type": "api",
+        "endpoint": "new-arrivals"
+      },
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      }
+    },
+    {
+      "id": "promotional-banner-3",
+      "type": "banners",
+      "enabled": true,
+      "order": 9,
+      "layout": {
+        "height": 130,
+        "fullWidth": false
+      },
+      "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales"
+    },
+    {
+      "id": "large-promo-banner",
+      "type": "promotional",
+      "title": "Grandes Descuentos",
+      "subtitle": "Hasta 70% off en productos seleccionados",
+      "enabled": true,
+      "order": 10,
+      "layout": {
+        "height": 200,
+        "fullWidth": true
+      }
+    },
+    {
+      "id": "explore-categories",
+      "type": "categories",
+      "title": "Explora por Categoría",
+      "enabled": true,
+      "order": 11,
+      "layout": {
+        "columns": 3,
+        "showHeader": true,
+        "showSeeAll": false
+      }
+    },
+    {
+      "id": "promotional-banner-2",
+      "type": "banners",
+      "enabled": true,
+      "order": 12,
+      "layout": {
+        "height": 130,
+        "fullWidth": false
+      },
+      "ctaAction": "/plp/discounted?collectionId=150&title=DASDASD",
+      "collectionId": "150",
+      "title": "DASDASD"
+    },
+    {
+      "id": "featured-categories",
+      "type": "categories",
+      "title": "Categorías Destacadas",
+      "enabled": true,
+      "order": 13,
+      "categoryIds": [
+        "electronics",
+        "clothing",
+        "home"
+      ],
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false
+      }
+    },
+    {
+      "id": "promotional-1762824151999",
+      "type": "promotional",
+      "title": "Nueva sección promotional",
+      "enabled": true,
+      "order": 14,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false,
+        "height": 200,
+        "fullWidth": true,
+        "autoChangeEnabled": true,
+        "changeInterval": 10
+      },
+      "data": {
+        "banners": [
+          {
+            "id": "promo-1762824151999",
+            "title": "Ofertas Especiales",
+            "subtitle": "Descuentos exclusivos por tiempo limitado",
+            "image": "",
+            "cta": "Ver Ofertas",
+            "ctaAction": "/plp/discounted?collectionId=160&title=Ofertas%20Especiales",
+            "order": 1
+          },
+          {
+            "id": "promo-1762824165128",
+            "title": "Nuevo Banner Promocional",
+            "subtitle": "Descuentos exclusivos",
+            "image": "",
+            "cta": "Ver Ofertas",
+            "ctaAction": "/plp/discounted?collectionId=282&title=Nuevo%20Banner",
+            "order": 2
+          }
+        ]
+      }
+    }
+  ],
+  "features": {
+    "enableSearch": true,
+    "enableFilters": true,
+    "enableFavorites": true,
+    "enableCart": true
+  },
+  "footer": {
+    "brandName": "KLIQUEA",
+    "brandDescription": "Tu tienda online de confianza para moda, tecnología y hogar",
+    "contactInfo": {
+      "phone": "+1 (234) 567-8900",
+      "email": "contacto@kliquea.com",
+      "whatsapp": "1234567890"
+    },
+    "socialLinks": {
+      "facebook": "https://facebook.com/kliquea",
+      "instagram": "https://instagram.com/kliquea",
+      "twitter": "https://twitter.com/kliquea",
+      "tiktok": "https://tiktok.com/@kliquea"
+    },
+    "quickLinks": [
+      {
+        "title": "Sobre Nosotros",
+        "route": "/about"
+      },
+      {
+        "title": "Política de Privacidad",
+        "route": "/privacy"
+      },
+      {
+        "title": "Términos y Condiciones",
+        "route": "/terms"
+      },
+      {
+        "title": "Contacto",
+        "route": "/contact"
+      }
+    ],
+    "paymentMethods": [
+      {
+        "name": "Visa",
+        "icon": "credit-card"
+      },
+      {
+        "name": "Mastercard",
+        "icon": "credit-card"
+      },
+      {
+        "name": "PayPal",
+        "icon": "wallet"
+      },
+      {
+        "name": "Apple Pay",
+        "icon": "phone-portrait"
+      }
+    ],
+    "copyright": "© 2025 KLIQUEA. Todos los derechos reservados.",
+    "showPaymentMethods": true,
+    "showContactInfo": true,
+    "showSocialLinks": true,
+    "showLegalLinks": true
+  },
+  "theme": {
+    "primary": "auto",
+    "primaryColor": "#8db6e2"
+  }
+}
