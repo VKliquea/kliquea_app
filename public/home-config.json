@@ -1,6 +1,6 @@
 {
-  "version": "1.0.7",
-  "lastUpdated": "2025-11-10T22:48:57.184Z",
+  "version": "1.0.8",
+  "lastUpdated": "2025-11-11T00:46:47.156Z",
   "banners": {
     "hero": [
       {
@@ -232,51 +232,6 @@
         "showHeader": true,
         "showSeeAll": false
       }
-    },
-    {
-      "id": "banners-1762807017159",
-      "type": "banners",
-      "title": "Nueva sección banners",
-      "enabled": true,
-      "order": 14,
-      "layout": {
-        "showHeader": true,
-        "showSeeAll": false,
-        "height": 130,
-        "fullWidth": false
-      },
-      "ctaAction": ""
-    },
-    {
-      "id": "products-1762807259295",
-      "type": "products",
-      "title": "Nueva sección products",
-      "enabled": true,
-      "order": 15,
-      "layout": {
-        "showHeader": true,
-        "showSeeAll": true
-      },
-      "dataSource": {
-        "type": "api",
-        "endpoint": "trending"
-      }
-    },
-    {
-      "id": "promotional-1762814916430",
-      "type": "promotional",
-      "title": "Nueva sección promotional",
-      "enabled": true,
-      "order": 16,
-      "layout": {
-        "showHeader": true,
-        "showSeeAll": false,
-        "height": 200,
-        "fullWidth": true
-      },
-      "subtitle": "Descripción del banner promocional",
-      "ctaAction": "/plp/discounted?collectionId=149&title=Nueva%20secci%C3%B3n%20promotional",
-      "collectionId": "149"
     }
   ],
   "features": {
@@ -340,5 +295,9 @@
     "showContactInfo": true,
     "showSocialLinks": true,
     "showLegalLinks": true
+  },
+  "theme": {
+    "primary": "auto",
+    "primaryColor": "#8db6e2"
   }
 }
