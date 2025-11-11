@@ -1,6 +1,6 @@
 {
   "version": "1.0.8",
-  "lastUpdated": "2025-11-11T01:01:15.751Z",
+  "lastUpdated": "2025-11-11T01:08:16.732Z",
   "banners": {
     "hero": [
       {
@@ -85,6 +85,31 @@
       "layout": {
         "showHeader": true,
         "showSeeAll": false
+      },
+      "data": {
+        "categories": [
+          {
+            "id": 2974,
+            "name": "Manualidades",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/2974",
+            "order": 1
+          },
+          {
+            "id": 2954,
+            "name": "Cerámica",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/2954",
+            "order": 2
+          },
+          {
+            "id": 2961,
+            "name": "Escultura",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/2961",
+            "order": 3
+          }
+        ]
       }
     },
     {
