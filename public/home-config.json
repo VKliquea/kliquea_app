@@ -1,6 +1,6 @@
 {
   "version": "1.0.8",
-  "lastUpdated": "2025-11-11T01:09:29.527Z",
+  "lastUpdated": "2025-11-11T01:23:14.265Z",
   "banners": {
     "hero": [
       {
@@ -291,7 +291,9 @@
         "height": 130,
         "fullWidth": false
       },
-      "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales"
+      "ctaAction": "/plp/discounted?collectionId=150&title=DASDASD",
+      "collectionId": "150",
+      "title": "DASDASD"
     },
     {
       "id": "featured-categories",
@@ -307,6 +309,43 @@
       "layout": {
         "showHeader": true,
         "showSeeAll": false
+      }
+    },
+    {
+      "id": "promotional-1762824151999",
+      "type": "promotional",
+      "title": "Nueva sección promotional",
+      "enabled": true,
+      "order": 14,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": false,
+        "height": 200,
+        "fullWidth": true,
+        "autoChangeEnabled": true,
+        "changeInterval": 10
+      },
+      "data": {
+        "banners": [
+          {
+            "id": "promo-1762824151999",
+            "title": "Ofertas Especiales",
+            "subtitle": "Descuentos exclusivos por tiempo limitado",
+            "image": "",
+            "cta": "Ver Ofertas",
+            "ctaAction": "/plp/discounted?collectionId=160&title=Ofertas%20Especiales",
+            "order": 1
+          },
+          {
+            "id": "promo-1762824165128",
+            "title": "Nuevo Banner Promocional",
+            "subtitle": "Descuentos exclusivos",
+            "image": "",
+            "cta": "Ver Ofertas",
+            "ctaAction": "/plp/discounted?collectionId=282&title=Nuevo%20Banner",
+            "order": 2
+          }
+        ]
       }
     }
   ],
