@@ -1,12 +1,12 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-11-10T00:00:00.000Z",
+  "lastUpdated": "2025-11-11T21:40:59.781Z",
   "banners": {
     "hero": [
       {
         "id": "hero-1",
         "title": "Bienvenido a KLIQUEA",
-        "subtitle": "Descubre las mejores ofertas en moda y tecnología",
+        "subtitle": "Descubre las mejores ofertas en moda y tecnologÃ­a",
         "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop",
         "cta": "Explorar",
         "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
@@ -16,7 +16,7 @@
       {
         "id": "hero-2",
         "title": "Nuevos Productos",
-        "subtitle": "Descubre las últimas tendencias en moda y tecnología",
+        "subtitle": "Descubre las Ãºltimas tendencias en moda y tecnologÃ­a",
         "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
         "cta": "Explorar",
         "ctaAction": "/products/all",
@@ -25,7 +25,7 @@
       },
       {
         "id": "hero-3",
-        "title": "Envío Gratis",
+        "title": "EnvÃ­o Gratis",
         "subtitle": "En pedidos superiores a $50",
         "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
         "cta": "Ver Ofertas",
@@ -69,14 +69,14 @@
       "id": "departments",
       "type": "categories",
       "title": "Departamentos",
-      "enabled": true,
+      "enabled": false,
       "order": 1,
       "isSlider": 6,
       "data": {
         "categories": [
           {
             "id": 1,
-            "name": "Electrónicos",
+            "name": "ElectrÃ³nicos",
             "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=300&h=300&fit=crop",
             "ctaAction": "/category/1",
             "order": 1
@@ -127,14 +127,14 @@
       "id": "categories",
       "type": "categories",
       "isSlider": 6,
-      "title": "Categorías",
-      "enabled": true,
+      "title": "Categoria",
+      "enabled": false,
       "order": 2,
       "data": {
         "categories": [
           {
             "id": 1,
-            "name": "Electrónicos",
+            "name": "ElectrÃ³nicos",
             "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=300&h=300&fit=crop",
             "ctaAction": "/category/1",
             "order": 1
@@ -210,7 +210,7 @@
     {
       "id": "seasonal-collection",
       "type": "seasonal",
-      "title": "Colección de Temporada",
+      "title": "ColecciÃ³n de Temporada",
       "enabled": true,
       "order": 6,
       "layout": {
@@ -221,7 +221,7 @@
     {
       "id": "bestsellers",
       "type": "products",
-      "title": "Más Vendidos",
+      "title": "MÃ¡s Vendidos",
       "enabled": true,
       "order": 7,
       "dataSource": {
@@ -262,7 +262,7 @@
     {
       "id": "large-promo-banner",
       "type": "promotional",
-      "title": "Grandes Descuentos en Electrónicos",
+      "title": "Grandes Descuentos en ElectrÃ³nicos",
       "subtitle": "Hasta 70% off en productos seleccionados",
       "enabled": true,
       "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
@@ -309,7 +309,7 @@
     {
       "id": "explore-categories",
       "type": "categories",
-      "title": "Explora por Categoría",
+      "title": "Explora por CategorÃ­a",
       "enabled": true,
       "order": 11,
       "isSlider": 8,
@@ -317,7 +317,7 @@
         "categories": [
           {
             "id": 1,
-            "name": "Electrónicos",
+            "name": "ElectrÃ³nicos",
             "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=300&h=300&fit=crop",
             "ctaAction": "/category/1",
             "order": 1
@@ -398,7 +398,7 @@
     {
       "id": "featured-categories",
       "type": "categories",
-      "title": "Categorías Destacadas",
+      "title": "CategorÃ­as Destacadas",
       "enabled": true,
       "order": 13,
       "isSlider": 6,
@@ -406,7 +406,7 @@
         "categories": [
           {
             "id": 1,
-            "name": "Electrónicos",
+            "name": "ElectrÃ³nicos",
             "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=300&h=300&fit=crop",
             "ctaAction": "/category/1",
             "order": 1
@@ -460,15 +460,15 @@
         "route": "/about"
       },
       {
-        "title": "Política de Privacidad",
+        "title": "PolÃ­tica de Privacidad",
         "route": "/privacy"
       },
       {
-        "title": "Términos y Condiciones",
+        "title": "TÃ©rminos y Condiciones",
         "route": "/terms"
       },
       {
-        "title": "Envíos y Devoluciones",
+        "title": "EnvÃ­os y Devoluciones",
         "route": "/shipping"
       },
       {
@@ -494,7 +494,7 @@
         "icon": "wallet"
       }
     ],
-    "copyright": "© 2025 KLIQUEA. Todos los derechos reservados.",
+    "copyright": "Â© 2025 KLIQUEA. Todos los derechos reservados.",
     "showPaymentMethods": true,
     "showContactInfo": true,
     "showSocialLinks": true,
