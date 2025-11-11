@@ -1,6 +1,6 @@
 {
   "version": "1.0.8",
-  "lastUpdated": "2025-11-11T01:08:16.732Z",
+  "lastUpdated": "2025-11-11T01:09:29.527Z",
   "banners": {
     "hero": [
       {
@@ -80,7 +80,7 @@
       "id": "categories",
       "type": "categories",
       "title": "Categorías",
-      "enabled": false,
+      "enabled": true,
       "order": 1,
       "layout": {
         "showHeader": true,
@@ -121,6 +121,45 @@
       "layout": {
         "showHeader": true,
         "showSeeAll": false
+      },
+      "data": {
+        "categories": [
+          {
+            "id": 25,
+            "name": "Entretenimiento",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/25",
+            "order": 1
+          },
+          {
+            "id": 1,
+            "name": "Mascotas",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/1",
+            "order": 2
+          },
+          {
+            "id": 3009,
+            "name": "Eventos Familiares y Culturales",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/3009",
+            "order": 3
+          },
+          {
+            "id": 3010,
+            "name": "Comedia y Entretenimiento General",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/3010",
+            "order": 4
+          },
+          {
+            "id": 477,
+            "name": "Electrónica",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/477",
+            "order": 5
+          }
+        ]
       }
     },
     {
