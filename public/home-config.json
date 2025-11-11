@@ -1,6 +1,6 @@
 {
   "version": "1.0.9",
-  "lastUpdated": "2025-11-11T21:12:08.331Z",
+  "lastUpdated": "2025-11-11T21:14:39.942Z",
   "banners": {
     "hero": [
       {
@@ -14,6 +14,18 @@
         "changeInterval": 10,
         "type": "hero",
         "collectionId": "265"
+      },
+      {
+        "id": "hero-banner-1762822819343",
+        "title": "Nuevo Banner Hero",
+        "subtitle": "TES",
+        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/7018ea2d-ab96-425f-9ac2-76758930b63b___47e50ea7afac89b978f7e955e78bd396.png",
+        "cta": "Explorar",
+        "ctaAction": "/plp/discounted?collectionId=151&title=Nuevo%20Banner%20Hero",
+        "collectionId": "151",
+        "autoChange": true,
+        "changeInterval": 40,
+        "type": "hero"
       },
       {
         "id": "hero-2",
@@ -36,18 +48,6 @@
         "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
         "autoChange": true,
         "changeInterval": 4
-      },
-      {
-        "id": "hero-banner-1762822819343",
-        "title": "Nuevo Banner Hero",
-        "subtitle": "TES",
-        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/7018ea2d-ab96-425f-9ac2-76758930b63b___47e50ea7afac89b978f7e955e78bd396.png",
-        "cta": "Explorar",
-        "ctaAction": "/plp/discounted?collectionId=151&title=Nuevo%20Banner%20Hero",
-        "collectionId": "151",
-        "autoChange": true,
-        "changeInterval": 40,
-        "type": "hero"
       }
     ],
     "promotional": [
