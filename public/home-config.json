@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-12T15:21:05.433Z",
+  "lastUpdated": "2025-11-12T15:22:23.256Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-12T15:21:05.433Z",
+  "modifiedAt": "2025-11-12T15:22:23.256Z",
   "banners": {
     "hero": [
       {
@@ -29,7 +29,10 @@
         "ctaAction": "/plp/discounted?collectionId=159&title=GuiaDeTalla-Prueba2",
         "autoChange": true,
         "changeInterval": 4,
-        "collectionId": "159"
+        "collectionId": "159",
+        "hideButton": true,
+        "hideSubtitle": true,
+        "hideTitle": true
       },
       {
         "id": "hero-3",
