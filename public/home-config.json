@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-11-11T21:46:30.827Z",
+  "lastUpdated": "2025-11-12T13:19:40.768Z",
   "banners": {
     "hero": [
       {
@@ -174,7 +174,8 @@
       "order": 3,
       "layout": {
         "height": 130,
-        "fullWidth": false
+        "fullWidth": true,
+        "showHeader": true
       }
     },
     {
