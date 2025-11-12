@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-12T14:44:48.962Z",
+  "lastUpdated": "2025-11-12T15:21:05.433Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-12T14:44:48.961Z",
+  "modifiedAt": "2025-11-12T15:21:05.433Z",
   "banners": {
     "hero": [
       {
@@ -23,12 +23,13 @@
       {
         "id": "hero-2",
         "title": "Nuevos Productos",
-        "subtitle": "Descubre las Ãºltimas tendencias en moda y tecnologÃ­a",
+        "subtitle": "",
         "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
-        "cta": "Explorar",
-        "ctaAction": "/products/all",
+        "cta": "",
+        "ctaAction": "/plp/discounted?collectionId=159&title=GuiaDeTalla-Prueba2",
         "autoChange": true,
-        "changeInterval": 4
+        "changeInterval": 4,
+        "collectionId": "159"
       },
       {
         "id": "hero-3",
@@ -36,9 +37,12 @@
         "subtitle": "En pedidos superiores a $50",
         "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
         "cta": "Ver Ofertas",
-        "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
+        "ctaAction": "/plp/discounted?collectionId=164&title=Envio%20Gratis",
         "autoChange": false,
-        "changeInterval": 4
+        "changeInterval": 4,
+        "hideContent": false,
+        "hideButton": true,
+        "collectionId": "164"
       }
     ],
     "styling": {
