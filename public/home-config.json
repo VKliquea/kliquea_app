@@ -1,6 +1,6 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-12T14:23:54.374Z",
+  "lastUpdated": "2025-11-12T14:37:12.178Z",
   "banners": {
     "hero": [
       {
@@ -75,52 +75,24 @@
       "data": {
         "categories": [
           {
-            "id": 1,
-            "name": "ElectrÃ³nicos",
-            "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=300&h=300&fit=crop",
-            "ctaAction": "/category/1",
-            "order": 1
-          },
-          {
-            "id": 2,
-            "name": "Ropa",
-            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
-            "ctaAction": "/category/2",
-            "order": 2
-          },
-          {
-            "id": 3,
-            "name": "Hogar",
-            "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=300&h=300&fit=crop",
-            "ctaAction": "/category/3",
-            "order": 3
-          },
-          {
-            "id": 4,
-            "name": "Deportes",
-            "image": "https://images.unsplash.com/photo-1461896836934-ffe607ba8211?w=300&h=300&fit=crop",
-            "ctaAction": "/category/4",
-            "order": 4
-          },
-          {
             "id": 5,
             "name": "Libros",
             "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=300&fit=crop",
             "ctaAction": "/category/5",
-            "order": 5
+            "order": 1
           },
           {
             "id": 6,
             "name": "Belleza",
             "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=300&h=300&fit=crop",
             "ctaAction": "/category/6",
-            "order": 6
+            "order": 2
           }
         ]
       },
       "layout": {
         "showHeader": true,
-        "showSeeAll": false
+        "showSeeAll": true
       }
     },
     {
@@ -515,7 +487,7 @@
     "showSocialLinks": true,
     "showLegalLinks": true
   },
-  "modifiedAt": "2025-11-12T14:23:54.374Z",
+  "modifiedAt": "2025-11-12T14:37:12.178Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
