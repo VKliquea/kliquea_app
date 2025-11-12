@@ -1,25 +1,25 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-12T15:23:11.940Z",
+  "lastUpdated": "2025-11-12T15:24:35.388Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-12T15:23:11.940Z",
+  "modifiedAt": "2025-11-12T15:24:35.388Z",
   "banners": {
     "hero": [
       {
         "id": "hero-1",
         "title": "Bienvenido a KLIQUEA",
         "subtitle": "Descubre las mejores ofertas en moda y tecnologÃ­a",
-        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop",
+        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/0a05d540-268e-4964-a278-e0076d5e0fca___c38cdf138a785b1cddef1952d886c8ae.png",
         "cta": "Explorar",
-        "ctaAction": "/plp/discounted?collectionId=177&title=Bienvenido%20a%20KLIQUEA",
+        "ctaAction": "/plp/discounted?collectionId=151&title=Bienvenido%20a%20KLIQUEA",
         "autoChange": true,
         "changeInterval": 4,
-        "collectionId": "177",
+        "collectionId": "151",
         "hideTitle": true,
         "hideSubtitle": true,
         "hideButton": true
@@ -28,7 +28,7 @@
         "id": "hero-2",
         "title": "Nuevos Productos",
         "subtitle": "",
-        "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
+        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/05ff3cc0-c5e5-47ee-85d0-a69a0e11f2ff___1bff8bb4d23d5d80e21e26e8fc705ec8.png",
         "cta": "",
         "ctaAction": "/plp/discounted?collectionId=159&title=GuiaDeTalla-Prueba2",
         "autoChange": true,
