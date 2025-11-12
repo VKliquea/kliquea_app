@@ -1,6 +1,6 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-12T14:37:12.178Z",
+  "lastUpdated": "2025-11-12T14:40:05.136Z",
   "banners": {
     "hero": [
       {
@@ -75,18 +75,25 @@
       "data": {
         "categories": [
           {
-            "id": 5,
-            "name": "Libros",
-            "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=300&h=300&fit=crop",
-            "ctaAction": "/category/5",
+            "id": 3051,
+            "name": "TV y Video",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/3051",
             "order": 1
           },
           {
-            "id": 6,
-            "name": "Belleza",
-            "image": "https://images.unsplash.com/photo-1596462502278-27bfdc403348?w=300&h=300&fit=crop",
-            "ctaAction": "/category/6",
+            "id": 3052,
+            "name": "Televisores",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/3052",
             "order": 2
+          },
+          {
+            "id": 719,
+            "name": "Cuidado personal",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/719",
+            "order": 3
           }
         ]
       },
@@ -487,7 +494,7 @@
     "showSocialLinks": true,
     "showLegalLinks": true
   },
-  "modifiedAt": "2025-11-12T14:37:12.178Z",
+  "modifiedAt": "2025-11-12T14:40:05.136Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
