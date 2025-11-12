@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "lastUpdated": "2025-11-12T13:19:40.768Z",
+  "lastUpdated": "2025-11-12T13:21:37.050Z",
   "banners": {
     "hero": [
       {
@@ -133,13 +133,6 @@
       "data": {
         "categories": [
           {
-            "id": 1,
-            "name": "ElectrÃ³nicos",
-            "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=300&h=300&fit=crop",
-            "ctaAction": "/category/1",
-            "order": 1
-          },
-          {
             "id": 2,
             "name": "Ropa",
             "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
@@ -152,6 +145,27 @@
             "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=300&h=300&fit=crop",
             "ctaAction": "/category/3",
             "order": 2
+          },
+          {
+            "id": 1,
+            "name": "Mascotas",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/1",
+            "order": 3
+          },
+          {
+            "id": 135,
+            "name": "Bebidas y cigarros",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/135",
+            "order": 4
+          },
+          {
+            "id": 1232,
+            "name": "Ferreteria y Automotríz",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/1232",
+            "order": 5
           }
         ]
       },
