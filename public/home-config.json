@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-12T15:37:51.002Z",
+  "lastUpdated": "2025-11-12T15:40:31.731Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-12T15:37:51.002Z",
+  "modifiedAt": "2025-11-12T15:40:31.731Z",
   "banners": {
     "hero": [
       {
@@ -53,7 +53,7 @@
       }
     ],
     "styling": {
-      "buttonBackgroundColor": "#007AFF",
+      "buttonBackgroundColor": "#3e80ea",
       "buttonTextColor": "#FFFFFF",
       "buttonBorderRadius": 8,
       "buttonPaddingHorizontal": 24,
