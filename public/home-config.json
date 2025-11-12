@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-12T15:24:35.388Z",
+  "lastUpdated": "2025-11-12T15:37:51.002Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-12T15:24:35.388Z",
+  "modifiedAt": "2025-11-12T15:37:51.002Z",
   "banners": {
     "hero": [
       {
@@ -29,12 +29,12 @@
         "title": "Nuevos Productos",
         "subtitle": "",
         "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/05ff3cc0-c5e5-47ee-85d0-a69a0e11f2ff___1bff8bb4d23d5d80e21e26e8fc705ec8.png",
-        "cta": "",
-        "ctaAction": "/plp/discounted?collectionId=159&title=GuiaDeTalla-Prueba2",
+        "cta": "Ver mas",
+        "ctaAction": "/plp/discounted?collectionId=247&title=Nuevos%20Productos",
         "autoChange": true,
         "changeInterval": 4,
-        "collectionId": "159",
-        "hideButton": true,
+        "collectionId": "247",
+        "hideButton": false,
         "hideSubtitle": true,
         "hideTitle": true
       },
