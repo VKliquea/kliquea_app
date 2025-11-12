@@ -1,6 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-12T14:40:05.136Z",
+  "lastUpdated": "2025-11-12T14:44:48.962Z",
+  "modifiedBy": {
+    "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
+    "name": "victon720@gmail.com",
+    "email": "victon720@gmail.com",
+    "role": "owner"
+  },
+  "modifiedAt": "2025-11-12T14:44:48.961Z",
   "banners": {
     "hero": [
       {
@@ -25,12 +32,12 @@
       },
       {
         "id": "hero-3",
-        "title": "EnvÃ­o Gratis",
+        "title": "Envio Gratis",
         "subtitle": "En pedidos superiores a $50",
         "image": "https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop",
         "cta": "Ver Ofertas",
         "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
-        "autoChange": true,
+        "autoChange": false,
         "changeInterval": 4
       }
     ],
@@ -493,12 +500,5 @@
     "showContactInfo": true,
     "showSocialLinks": true,
     "showLegalLinks": true
-  },
-  "modifiedAt": "2025-11-12T14:40:05.136Z",
-  "modifiedBy": {
-    "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
-    "name": "victon720@gmail.com",
-    "email": "victon720@gmail.com",
-    "role": "owner"
   }
 }
