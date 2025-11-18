@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-12T16:09:07.477Z",
+  "lastUpdated": "2025-11-18T18:56:26.161Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-12T16:09:07.476Z",
+  "modifiedAt": "2025-11-18T18:56:26.161Z",
   "banners": {
     "hero": [
       {
@@ -87,7 +87,7 @@
       "id": "departments",
       "type": "categories",
       "title": "Departamentos",
-      "enabled": false,
+      "enabled": true,
       "order": 1,
       "isSlider": 6,
       "data": {
@@ -125,7 +125,7 @@
       "type": "categories",
       "isSlider": 6,
       "title": "Categoria",
-      "enabled": false,
+      "enabled": true,
       "order": 2,
       "data": {
         "categories": [
@@ -190,14 +190,14 @@
       }
     },
     {
-      "id": "for-you",
+      "id": "trending",
       "type": "products",
-      "title": "Para Ti",
+      "title": "Tendencias",
       "enabled": true,
       "order": 4,
       "dataSource": {
         "type": "api",
-        "endpoint": "personalized"
+        "endpoint": "trending"
       },
       "layout": {
         "showHeader": true,
@@ -205,14 +205,14 @@
       }
     },
     {
-      "id": "trending",
+      "id": "for-you",
       "type": "products",
-      "title": "Tendencias",
+      "title": "Para Ti",
       "enabled": true,
       "order": 5,
       "dataSource": {
         "type": "api",
-        "endpoint": "trending"
+        "endpoint": "personalized"
       },
       "layout": {
         "showHeader": true,
@@ -288,7 +288,7 @@
       "id": "large-promo-banner3",
       "type": "promotional",
       "enabled": true,
-      "order": 10,
+      "order": 11,
       "data": {
         "banners": [
           {
@@ -323,7 +323,7 @@
       "type": "categories",
       "title": "Explora por CategorÃ­a",
       "enabled": true,
-      "order": 11,
+      "order": 12,
       "isSlider": 8,
       "data": {
         "categories": [
@@ -400,7 +400,7 @@
       "id": "promotional-banner-2",
       "type": "banners",
       "enabled": true,
-      "order": 12,
+      "order": 13,
       "layout": {
         "height": 130,
         "fullWidth": false
@@ -412,7 +412,7 @@
       "type": "categories",
       "title": "CategorÃ­as Destacadas",
       "enabled": true,
-      "order": 13,
+      "order": 14,
       "isSlider": 6,
       "data": {
         "categories": [
