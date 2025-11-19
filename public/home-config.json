@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T12:56:29.348Z",
+  "lastUpdated": "2025-11-19T12:56:57.581Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T12:56:29.348Z",
+  "modifiedAt": "2025-11-19T12:56:57.581Z",
   "banners": {
     "hero": [
       {
@@ -389,8 +389,8 @@
         ]
       },
       "layout": {
-        "columns": 1,
-        "gap": 1,
+        "columns": 3,
+        "gap": 4,
         "borderRadius": 5,
         "fontSize": 14,
         "paddingHorizontal": 8,
