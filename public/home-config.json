@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T17:44:29.822Z",
+  "lastUpdated": "2025-11-19T17:50:27.873Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T17:44:29.822Z",
+  "modifiedAt": "2025-11-19T17:50:27.872Z",
   "banners": {
     "hero": [
       {
@@ -331,12 +331,26 @@
       "layout": {
         "height": 200,
         "fullWidth": true
+      },
+      "data": {
+        "banners": [
+          {
+            "id": "promo-1763574300000",
+            "title": "Nuevo Banner",
+            "subtitle": "Descripción del banner",
+            "image": "",
+            "cta": "Ver Más",
+            "ctaAction": "",
+            "collectionId": "",
+            "order": 1
+          }
+        ]
       }
     },
     {
       "id": "large-promo-banner3",
       "type": "promotional",
-      "enabled": false,
+      "enabled": true,
       "order": 11,
       "data": {
         "banners": [
@@ -344,18 +358,22 @@
             "id": "promo-1",
             "title": "Ofertas Especiales",
             "subtitle": "Descuentos exclusivos por tiempo limitado",
-            "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=200&fit=crop",
+            "image": "https://kliqueainternacional.vtexassets.com/assets/vtex.file-manager-graphql/images/2973b0f7-b7ad-44fc-9a8c-9fad39888111___9755dc0a29d5b288e446804c34dd25e8.jpg",
             "cta": "Ver Ofertas",
             "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
-            "order": 1
+            "collectionId": "282",
+            "order": 1,
+            "hideTitle": true,
+            "hideButton": true
           },
           {
             "id": "promo-3",
             "title": "Ofertas Especiales 4",
             "subtitle": "Descuentos exclusivos por tiempo limitado",
-            "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=200&fit=crop",
+            "image": "https://kliqueainternacional.vtexassets.com/assets/vtex.file-manager-graphql/images/c6fadae9-c8d2-425e-8b04-81a3b090d528___e3a6c28c78af42e365c06913239a6ec3.png",
             "cta": "Ver Ofertas",
             "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
+            "collectionId": "282",
             "order": 2
           }
         ]
@@ -364,8 +382,12 @@
         "height": 200,
         "fullWidth": true,
         "autoChangeEnabled": true,
-        "changeInterval": 4
-      }
+        "changeInterval": 10
+      },
+      "title": "Banner Promocionales",
+      "subtitle": "Hasta 70% off en productos seleccionados",
+      "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
+      "collectionId": "282"
     },
     {
       "id": "explore-categories",
@@ -455,7 +477,9 @@
         "height": 130,
         "fullWidth": true
       },
-      "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales"
+      "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
+      "hideSubtitle": true,
+      "hideButton": true
     },
     {
       "id": "featured-categories",
