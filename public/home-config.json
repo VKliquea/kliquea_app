@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T15:10:30.645Z",
+  "lastUpdated": "2025-11-19T15:25:38.282Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T15:10:30.645Z",
+  "modifiedAt": "2025-11-19T15:25:38.282Z",
   "banners": {
     "hero": [
       {
@@ -18,12 +18,12 @@
         "cta": "Ver Ofertas",
         "ctaAction": "/plp/discounted?collectionId=164&title=Envio%20Gratis",
         "autoChange": false,
-        "changeInterval": 4,
+        "changeInterval": 10,
         "hideContent": false,
         "hideButton": true,
         "collectionId": "164",
-        "hideSubtitle": true,
-        "hideTitle": true
+        "hideSubtitle": false,
+        "hideTitle": false
       },
       {
         "id": "hero-1",
@@ -52,6 +52,34 @@
         "hideButton": false,
         "hideSubtitle": true,
         "hideTitle": true
+      },
+      {
+        "id": "hero-1763565851472",
+        "title": "Nuevo Banner",
+        "subtitle": "Subtítulo del banner",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop",
+        "cta": "Ver Más",
+        "ctaAction": "/",
+        "collectionId": "",
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideButton": false,
+        "autoChange": true,
+        "changeInterval": 4
+      },
+      {
+        "id": "hero-1763565855042",
+        "title": "Nuevo Banner",
+        "subtitle": "Subtítulo del banner",
+        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop",
+        "cta": "Ver Más",
+        "ctaAction": "/",
+        "collectionId": "",
+        "hideTitle": false,
+        "hideSubtitle": false,
+        "hideButton": false,
+        "autoChange": true,
+        "changeInterval": 4
       }
     ],
     "styling": {
