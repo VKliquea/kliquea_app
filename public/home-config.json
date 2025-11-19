@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-19T12:09:02.611Z",
+  "lastUpdated": "2025-11-19T12:09:56.715Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T12:09:02.611Z",
+  "modifiedAt": "2025-11-19T12:09:56.715Z",
   "banners": {
     "hero": [
       {
@@ -415,7 +415,7 @@
       "title": "CategoriDestacadas",
       "enabled": true,
       "order": 14,
-      "isSlider": 6,
+      "isSlider": 4,
       "data": {
         "categories": [
           {
