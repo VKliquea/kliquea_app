@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T17:50:27.873Z",
+  "lastUpdated": "2025-11-19T17:56:04.683Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T17:50:27.872Z",
+  "modifiedAt": "2025-11-19T17:56:04.682Z",
   "banners": {
     "hero": [
       {
@@ -380,7 +380,7 @@
       },
       "layout": {
         "height": 200,
-        "fullWidth": true,
+        "fullWidth": false,
         "autoChangeEnabled": true,
         "changeInterval": 10
       },
@@ -531,7 +531,9 @@
       },
       "data": {
         "categories": []
-      }
+      },
+      "collectionId": "151",
+      "ctaAction": "/plp/discounted?collectionId=151&title=Nueva%20Secci%C3%B3n"
     }
   ],
   "features": {
