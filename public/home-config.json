@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T17:36:21.090Z",
+  "lastUpdated": "2025-11-19T17:42:49.922Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T17:36:21.090Z",
+  "modifiedAt": "2025-11-19T17:42:49.921Z",
   "banners": {
     "hero": [
       {
@@ -223,14 +223,17 @@
       "order": 3,
       "layout": {
         "height": 130,
-        "fullWidth": true,
+        "fullWidth": false,
         "showHeader": true
       },
       "title": "Test Banners 2",
       "subtitle": "Testsd gffdggdf",
       "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=200&fit=crop",
       "cta": "Test",
-      "ctaAction": "/plp/discounted?collectionId=168&title=Test%20Banners"
+      "ctaAction": "/plp/discounted?collectionId=168&title=Test%20Banners",
+      "hideTitle": true,
+      "hideSubtitle": true,
+      "hideButton": false
     },
     {
       "id": "trending",
