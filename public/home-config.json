@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T14:08:56.186Z",
+  "lastUpdated": "2025-11-19T15:10:30.645Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T14:08:56.185Z",
+  "modifiedAt": "2025-11-19T15:10:30.645Z",
   "banners": {
     "hero": [
       {
@@ -165,6 +165,13 @@
             "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
             "ctaAction": "/category/1232",
             "order": 5
+          },
+          {
+            "id": 3055,
+            "name": "Proyectores",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/3055",
+            "order": 6
           }
         ]
       },
@@ -177,7 +184,8 @@
         "marginHorizontal": 5,
         "marginVertical": 15,
         "showHeader": true,
-        "showSeeAll": false
+        "showSeeAll": false,
+        "columns": 2
       }
     },
     {
