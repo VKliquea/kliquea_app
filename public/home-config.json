@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T12:57:23.574Z",
+  "lastUpdated": "2025-11-19T12:57:50.030Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T12:57:23.574Z",
+  "modifiedAt": "2025-11-19T12:57:50.030Z",
   "banners": {
     "hero": [
       {
@@ -389,7 +389,7 @@
         ]
       },
       "layout": {
-        "columns": 2,
+        "columns": 3,
         "gap": 4,
         "borderRadius": 5,
         "fontSize": 14,
