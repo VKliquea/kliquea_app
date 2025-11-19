@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T13:19:25.154Z",
+  "lastUpdated": "2025-11-19T13:28:44.693Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T13:19:25.154Z",
+  "modifiedAt": "2025-11-19T13:28:44.693Z",
   "banners": {
     "hero": [
       {
@@ -191,7 +191,7 @@
         "showHeader": true
       },
       "title": "Test Banners",
-      "subtitle": "Testsd",
+      "subtitle": "Testsd gffdggdf",
       "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=200&fit=crop",
       "cta": "Test"
     },
