@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T12:44:24.736Z",
+  "lastUpdated": "2025-11-19T12:46:02.747Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T12:44:24.736Z",
+  "modifiedAt": "2025-11-19T12:46:02.747Z",
   "banners": {
     "hero": [
       {
@@ -189,7 +189,8 @@
         "height": 130,
         "fullWidth": true,
         "showHeader": true
-      }
+      },
+      "title": "Test Banner"
     },
     {
       "id": "trending",
