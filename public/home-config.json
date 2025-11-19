@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T13:38:53.225Z",
+  "lastUpdated": "2025-11-19T14:08:56.186Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T13:38:53.225Z",
+  "modifiedAt": "2025-11-19T14:08:56.185Z",
   "banners": {
     "hero": [
       {
@@ -55,7 +55,7 @@
       }
     ],
     "styling": {
-      "buttonBackgroundColor": "#3e80ea",
+      "buttonBackgroundColor": "#6d97d9",
       "buttonTextColor": "#FFFFFF",
       "buttonBorderRadius": 8,
       "buttonPaddingHorizontal": 24,
@@ -208,8 +208,11 @@
       },
       "layout": {
         "showHeader": true,
-        "showSeeAll": true
-      }
+        "showSeeAll": true,
+        "columns": 6
+      },
+      "collectionId": "154",
+      "ctaAction": "/plp/discounted?collectionId=154&title=Tendencias"
     },
     {
       "id": "for-you",
