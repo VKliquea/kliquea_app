@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-19T12:43:11.175Z",
+  "lastUpdated": "2025-11-19T12:43:28.392Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T12:43:11.175Z",
+  "modifiedAt": "2025-11-19T12:43:28.392Z",
   "banners": {
     "hero": [
       {
@@ -402,7 +402,7 @@
     {
       "id": "promotional-banner-2",
       "type": "banners",
-      "enabled": true,
+      "enabled": false,
       "order": 13,
       "layout": {
         "height": 130,
