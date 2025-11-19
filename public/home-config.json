@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-19T11:55:49.156Z",
+  "lastUpdated": "2025-11-19T11:58:10.032Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T11:55:49.156Z",
+  "modifiedAt": "2025-11-19T11:58:10.032Z",
   "banners": {
     "hero": [
       {
@@ -419,24 +419,24 @@
       "data": {
         "categories": [
           {
-            "id": 1,
-            "name": "ElectrÃ³nicos",
-            "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=300&h=300&fit=crop",
-            "ctaAction": "/category/1",
-            "order": 1
-          },
-          {
             "id": 2,
             "name": "Ropa",
             "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
             "ctaAction": "/category/2",
-            "order": 2
+            "order": 1
           },
           {
             "id": 3,
             "name": "Hogar",
             "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=300&h=300&fit=crop",
             "ctaAction": "/category/3",
+            "order": 2
+          },
+          {
+            "id": 477,
+            "name": "Electrónica",
+            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "ctaAction": "/category/477",
             "order": 3
           }
         ]
