@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-19T11:46:42.798Z",
+  "lastUpdated": "2025-11-19T11:49:46.434Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T11:46:42.798Z",
+  "modifiedAt": "2025-11-19T11:49:46.434Z",
   "banners": {
     "hero": [
       {
@@ -21,7 +21,9 @@
         "changeInterval": 4,
         "hideContent": false,
         "hideButton": true,
-        "collectionId": "164"
+        "collectionId": "164",
+        "hideSubtitle": true,
+        "hideTitle": true
       },
       {
         "id": "hero-1",
