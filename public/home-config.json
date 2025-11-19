@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T15:51:25.908Z",
+  "lastUpdated": "2025-11-19T16:07:01.521Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T15:51:25.908Z",
+  "modifiedAt": "2025-11-19T16:07:01.521Z",
   "banners": {
     "hero": [
       {
@@ -558,7 +558,7 @@
         "image": "https://kliqueainternacional.vtexassets.com/assets/vtex.file-manager-graphql/images/c146092b-1323-4600-83d7-81d0efa8caa2___b792ce660abbb0f14bfd352365898a37.svg"
       }
     ],
-    "copyright": "© 2025 KLIQUEA. Todos los derechos reservados.",
+    "copyright": "© 2026 KLIQUEA. Todos los derechos reservados.",
     "showPaymentMethods": true,
     "showContactInfo": true,
     "showSocialLinks": true,
