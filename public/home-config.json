@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-19T12:34:11.097Z",
+  "lastUpdated": "2025-11-19T12:36:12.812Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T12:34:11.097Z",
+  "modifiedAt": "2025-11-19T12:36:12.812Z",
   "banners": {
     "hero": [
       {
@@ -323,7 +323,7 @@
     {
       "id": "explore-categories",
       "type": "categories",
-      "title": "Explora por Categorías",
+      "title": "Explora por Categorias",
       "enabled": true,
       "order": 12,
       "isSlider": 6,
