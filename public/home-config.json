@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T17:43:30.284Z",
+  "lastUpdated": "2025-11-19T17:44:29.822Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T17:43:30.284Z",
+  "modifiedAt": "2025-11-19T17:44:29.822Z",
   "banners": {
     "hero": [
       {
@@ -223,7 +223,7 @@
       "order": 3,
       "layout": {
         "height": 200,
-        "fullWidth": false,
+        "fullWidth": true,
         "showHeader": true
       },
       "title": "Test Banners 2",
@@ -233,7 +233,7 @@
       "ctaAction": "/plp/discounted?collectionId=168&title=Test%20Banners",
       "hideTitle": true,
       "hideSubtitle": true,
-      "hideButton": false
+      "hideButton": true
     },
     {
       "id": "trending",
@@ -493,6 +493,20 @@
         "columns": 3,
         "showHeader": true,
         "showSeeAll": false
+      }
+    },
+    {
+      "id": "section-1763574265527",
+      "type": "products",
+      "title": "Nueva Sección",
+      "enabled": true,
+      "order": 15,
+      "layout": {
+        "showHeader": true,
+        "showSeeAll": true
+      },
+      "data": {
+        "categories": []
       }
     }
   ],
