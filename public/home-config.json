@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T17:06:23.194Z",
+  "lastUpdated": "2025-11-19T17:06:55.659Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T17:06:23.194Z",
+  "modifiedAt": "2025-11-19T17:06:55.659Z",
   "banners": {
     "hero": [
       {
@@ -561,7 +561,7 @@
         "image": "https://cdn.brandfetch.io/idxAg10C0L/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
       }
     ],
-    "copyright": "© 2025 KLIQUEA. Todos los derechos reservados.",
+    "copyright": "© {{year}} KLIQUEA. Todos los derechos reservados.",
     "showPaymentMethods": true,
     "showContactInfo": true,
     "showSocialLinks": true,
