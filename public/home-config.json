@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T15:28:38.925Z",
+  "lastUpdated": "2025-11-19T15:43:55.501Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T15:28:38.925Z",
+  "modifiedAt": "2025-11-19T15:43:55.500Z",
   "banners": {
     "hero": [
       {
@@ -28,7 +28,7 @@
       {
         "id": "hero-1",
         "title": "Bienvenido a KLIQUEA",
-        "subtitle": "Descubre las mejores ofertas en moda y tecnologÃ­a",
+        "subtitle": "Descubre las mejores ofertas en moda y tecnología",
         "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/0a05d540-268e-4964-a278-e0076d5e0fca___c38cdf138a785b1cddef1952d886c8ae.png",
         "cta": "Explorar",
         "ctaAction": "/plp/discounted?collectionId=151&title=Bienvenido%20a%20KLIQUEA",
@@ -375,7 +375,7 @@
         "categories": [
           {
             "id": 1,
-            "name": "ElectrÃ³nicos",
+            "name": "Electrónicos",
             "image": "https://images.unsplash.com/photo-1498049794561-7780e7231661?w=300&h=300&fit=crop",
             "ctaAction": "/category/1",
             "order": 1
@@ -519,15 +519,15 @@
         "route": "/about"
       },
       {
-        "title": "PolÃ­tica de Privacidad",
+        "title": "Política de Privacidad",
         "route": "/privacy"
       },
       {
-        "title": "TÃ©rminos y Condiciones",
+        "title": "Términos y Condiciones",
         "route": "/terms"
       },
       {
-        "title": "EnvÃ­os y Devoluciones",
+        "title": "Envíos y Devoluciones",
         "route": "/shipping"
       },
       {
@@ -553,7 +553,7 @@
         "icon": "wallet"
       }
     ],
-    "copyright": "Â© 2025 KLIQUEA. Todos los derechos reservados.",
+    "copyright": "© 2025 KLIQUEA. Todos los derechos reservados.",
     "showPaymentMethods": true,
     "showContactInfo": true,
     "showSocialLinks": true,
