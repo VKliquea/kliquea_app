@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T13:07:05.309Z",
+  "lastUpdated": "2025-11-19T13:19:25.154Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T13:07:05.309Z",
+  "modifiedAt": "2025-11-19T13:19:25.154Z",
   "banners": {
     "hero": [
       {
@@ -190,7 +190,10 @@
         "fullWidth": true,
         "showHeader": true
       },
-      "title": "Test Banner"
+      "title": "Test Banners",
+      "subtitle": "Testsd",
+      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=200&fit=crop",
+      "cta": "Test"
     },
     {
       "id": "trending",
