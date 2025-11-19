@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-19T11:58:10.032Z",
+  "lastUpdated": "2025-11-19T12:09:02.611Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T11:58:10.032Z",
+  "modifiedAt": "2025-11-19T12:09:02.611Z",
   "banners": {
     "hero": [
       {
@@ -412,7 +412,7 @@
     {
       "id": "featured-categories",
       "type": "categories",
-      "title": "Categori­as Destacadas",
+      "title": "CategoriDestacadas",
       "enabled": true,
       "order": 14,
       "isSlider": 6,
