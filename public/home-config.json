@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T16:55:58.059Z",
+  "lastUpdated": "2025-11-19T17:05:40.285Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T16:55:58.058Z",
+  "modifiedAt": "2025-11-19T17:05:40.283Z",
   "banners": {
     "hero": [
       {
@@ -542,15 +542,18 @@
     "paymentMethods": [
       {
         "name": "Visa",
-        "icon": "credit-card"
+        "icon": "credit-card",
+        "image": "https://cdn.brandfetch.io/idhem73aId/theme/dark/logo.svg?c=1dxbfHSJFAPEGdCLU4o5B"
       },
       {
         "name": "Mastercard",
-        "icon": "credit-card"
+        "icon": "credit-card",
+        "image": "https://cdn.brandfetch.io/idFw8DodCr/theme/dark/symbol.svg?c=1dxbfHSJFAPEGdCLU4o5B"
       },
       {
         "name": "PayPal",
-        "icon": "wallet"
+        "icon": "wallet",
+        "image": "https://cdn.brandfetch.io/id-Wd4a4TS/theme/dark/idCerXwXCa.svg?c=1dxbfHSJFAPEGdCLU4o5B"
       },
       {
         "name": "Stripe",
