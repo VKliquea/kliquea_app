@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-19T12:42:52.087Z",
+  "lastUpdated": "2025-11-19T12:43:11.175Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T12:42:52.087Z",
+  "modifiedAt": "2025-11-19T12:43:11.175Z",
   "banners": {
     "hero": [
       {
@@ -406,7 +406,7 @@
       "order": 13,
       "layout": {
         "height": 130,
-        "fullWidth": false
+        "fullWidth": true
       },
       "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales"
     },
