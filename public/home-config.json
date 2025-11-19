@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-19T12:36:12.812Z",
+  "lastUpdated": "2025-11-19T12:42:52.087Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T12:36:12.812Z",
+  "modifiedAt": "2025-11-19T12:42:52.087Z",
   "banners": {
     "hero": [
       {
@@ -183,7 +183,7 @@
     {
       "id": "promotional-banner-1",
       "type": "banners",
-      "enabled": true,
+      "enabled": false,
       "order": 3,
       "layout": {
         "height": 130,
@@ -195,7 +195,7 @@
       "id": "trending",
       "type": "products",
       "title": "Tendencias",
-      "enabled": true,
+      "enabled": false,
       "order": 4,
       "dataSource": {
         "type": "api",
@@ -210,7 +210,7 @@
       "id": "for-you",
       "type": "products",
       "title": "Para Ti",
-      "enabled": true,
+      "enabled": false,
       "order": 5,
       "dataSource": {
         "type": "api",
@@ -225,7 +225,7 @@
       "id": "seasonal-collection",
       "type": "seasonal",
       "title": "Coleccion de Temporada",
-      "enabled": true,
+      "enabled": false,
       "order": 6,
       "layout": {
         "showHeader": true,
@@ -236,7 +236,7 @@
       "id": "bestsellers",
       "type": "products",
       "title": "Mas Vendidos",
-      "enabled": true,
+      "enabled": false,
       "order": 7,
       "dataSource": {
         "type": "api",
@@ -251,7 +251,7 @@
       "id": "new-arrivals",
       "type": "products",
       "title": "Nuevos Ingresos",
-      "enabled": true,
+      "enabled": false,
       "order": 8,
       "dataSource": {
         "type": "api",
@@ -265,7 +265,7 @@
     {
       "id": "promotional-banner-3",
       "type": "banners",
-      "enabled": true,
+      "enabled": false,
       "order": 9,
       "layout": {
         "height": 130,
@@ -278,7 +278,7 @@
       "type": "promotional",
       "title": "Grandes Descuentos en Electronicos",
       "subtitle": "Hasta 70% off en productos seleccionados",
-      "enabled": true,
+      "enabled": false,
       "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
       "order": 10,
       "layout": {
@@ -289,7 +289,7 @@
     {
       "id": "large-promo-banner3",
       "type": "promotional",
-      "enabled": true,
+      "enabled": false,
       "order": 11,
       "data": {
         "banners": [
@@ -324,7 +324,7 @@
       "id": "explore-categories",
       "type": "categories",
       "title": "Explora por Categorias",
-      "enabled": true,
+      "enabled": false,
       "order": 12,
       "isSlider": 6,
       "data": {
@@ -414,7 +414,7 @@
       "id": "featured-categories",
       "type": "categories",
       "title": "Categorias Destacadas",
-      "enabled": true,
+      "enabled": false,
       "order": 14,
       "isSlider": 4,
       "data": {
