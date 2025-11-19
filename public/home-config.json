@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T15:26:03.467Z",
+  "lastUpdated": "2025-11-19T15:28:38.925Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T15:26:03.467Z",
+  "modifiedAt": "2025-11-19T15:28:38.925Z",
   "banners": {
     "hero": [
       {
@@ -57,7 +57,7 @@
         "id": "hero-1763565851472",
         "title": "Nuevo Banner",
         "subtitle": "Subtítulo del banner",
-        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop",
+        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/6e3b0ac7-6983-4e8f-b835-9d34582c7958___16f35fe33dbab86cb3e0b5a0dfc6257b.png?width=309&height=204&aspect=true",
         "cta": "Ver Más",
         "ctaAction": "/",
         "collectionId": "",
@@ -71,7 +71,7 @@
         "id": "hero-1763565855042",
         "title": "Nuevo Banner",
         "subtitle": "Subtítulo del banner",
-        "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop",
+        "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/a2a7d96f-96f4-48f3-bcf3-b2835bfb6434___7d0063105ca79e3a5a24b20088c06903.png?width=309&height=204&aspect=true",
         "cta": "Ver Más",
         "ctaAction": "/",
         "collectionId": "",
