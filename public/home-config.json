@@ -1,13 +1,13 @@
 {
   "version": "1.0.3",
-  "lastUpdated": "2025-11-18T18:56:26.161Z",
+  "lastUpdated": "2025-11-19T11:46:17.818Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-18T18:56:26.161Z",
+  "modifiedAt": "2025-11-19T11:46:17.818Z",
   "banners": {
     "hero": [
       {
@@ -222,7 +222,7 @@
     {
       "id": "seasonal-collection",
       "type": "seasonal",
-      "title": "ColecciÃ³n de Temporada",
+      "title": "Coleccion de Temporada",
       "enabled": true,
       "order": 6,
       "layout": {
@@ -233,7 +233,7 @@
     {
       "id": "bestsellers",
       "type": "products",
-      "title": "MÃ¡s Vendidos",
+      "title": "Mas Vendidos",
       "enabled": true,
       "order": 7,
       "dataSource": {
@@ -274,7 +274,7 @@
     {
       "id": "large-promo-banner",
       "type": "promotional",
-      "title": "Grandes Descuentos en ElectrÃ³nicos",
+      "title": "Grandes Descuentos en Electronicos",
       "subtitle": "Hasta 70% off en productos seleccionados",
       "enabled": true,
       "ctaAction": "/plp/discounted?collectionId=282&title=Ofertas%20Especiales",
@@ -321,7 +321,7 @@
     {
       "id": "explore-categories",
       "type": "categories",
-      "title": "Explora por CategorÃ­a",
+      "title": "Explora por Categori­a",
       "enabled": true,
       "order": 12,
       "isSlider": 8,
@@ -410,7 +410,7 @@
     {
       "id": "featured-categories",
       "type": "categories",
-      "title": "CategorÃ­as Destacadas",
+      "title": "Categori­as Destacadas",
       "enabled": true,
       "order": 14,
       "isSlider": 6,
