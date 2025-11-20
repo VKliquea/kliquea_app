@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-20T18:54:03.422Z",
+  "lastUpdated": "2025-11-20T18:55:20.605Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-20T18:54:03.422Z",
+  "modifiedAt": "2025-11-20T18:55:20.605Z",
   "banners": {
     "hero": [
       {
@@ -235,7 +235,7 @@
       },
       "title": "Test Banners 2",
       "subtitle": "Testsd gffdggdf",
-      "image": "https://images.unsplash.com/photo-1607082348824-0a96f2a4b9da?w=800&h=200&fit=crop",
+      "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/1d5b02c5-9bc0-47f6-b5ad-e677acca689a___8dd3f2bec0ba6c82cd729002f85babab.png",
       "cta": "Test",
       "ctaAction": "/plp/discounted?collectionId=168&title=Test%20Banners",
       "hideTitle": true,
