@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-20T18:55:20.605Z",
+  "lastUpdated": "2025-11-20T18:58:26.820Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-20T18:55:20.605Z",
+  "modifiedAt": "2025-11-20T18:58:26.819Z",
   "banners": {
     "hero": [
       {
@@ -283,8 +283,13 @@
       "order": 6,
       "layout": {
         "showHeader": true,
-        "showSeeAll": true
-      }
+        "showSeeAll": true,
+        "fullWidth": true
+      },
+      "collectionId": "254",
+      "ctaAction": "/plp/discounted?collectionId=254&title=Coleccion%20de%20Temporada",
+      "subtitle": "Tiendas Anthonys",
+      "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/21669510-3bac-4457-b0c7-d5bf739a0add___1b90a627742147db464a15e822b5ad08.png"
     },
     {
       "id": "bestsellers",
