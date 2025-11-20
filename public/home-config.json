@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-19T17:58:09.612Z",
+  "lastUpdated": "2025-11-20T18:49:19.166Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-19T17:58:09.612Z",
+  "modifiedAt": "2025-11-20T18:49:19.166Z",
   "banners": {
     "hero": [
       {
@@ -117,7 +117,7 @@
       "id": "departments",
       "type": "categories",
       "title": "Departamentos",
-      "enabled": false,
+      "enabled": true,
       "order": 1,
       "isSlider": 6,
       "data": {
@@ -239,7 +239,7 @@
       "id": "trending",
       "type": "products",
       "title": "Tendencias",
-      "enabled": false,
+      "enabled": true,
       "order": 4,
       "dataSource": {
         "type": "api",
@@ -257,7 +257,7 @@
       "id": "for-you",
       "type": "products",
       "title": "Para Ti",
-      "enabled": false,
+      "enabled": true,
       "order": 5,
       "dataSource": {
         "type": "api",
@@ -272,7 +272,7 @@
       "id": "seasonal-collection",
       "type": "seasonal",
       "title": "Coleccion de Temporada",
-      "enabled": false,
+      "enabled": true,
       "order": 6,
       "layout": {
         "showHeader": true,
@@ -283,7 +283,7 @@
       "id": "bestsellers",
       "type": "products",
       "title": "Mas Vendidos",
-      "enabled": false,
+      "enabled": true,
       "order": 7,
       "dataSource": {
         "type": "api",
@@ -518,22 +518,6 @@
         "showHeader": true,
         "showSeeAll": false
       }
-    },
-    {
-      "id": "section-1763574265527",
-      "type": "products",
-      "title": "Nueva Sección",
-      "enabled": true,
-      "order": 15,
-      "layout": {
-        "showHeader": true,
-        "showSeeAll": true
-      },
-      "data": {
-        "categories": []
-      },
-      "collectionId": "151",
-      "ctaAction": "/plp/discounted?collectionId=151&title=Nueva%20Secci%C3%B3n"
     }
   ],
   "features": {
