@@ -1,13 +1,13 @@
 {
   "version": "1.0.4",
-  "lastUpdated": "2025-11-20T18:49:19.166Z",
+  "lastUpdated": "2025-11-20T18:54:03.422Z",
   "modifiedBy": {
     "id": "66ccffe0-f9c5-4dbd-920e-a864212a6850",
     "name": "victon720@gmail.com",
     "email": "victon720@gmail.com",
     "role": "owner"
   },
-  "modifiedAt": "2025-11-20T18:49:19.166Z",
+  "modifiedAt": "2025-11-20T18:54:03.422Z",
   "banners": {
     "hero": [
       {
@@ -123,25 +123,32 @@
       "data": {
         "categories": [
           {
-            "id": 3051,
-            "name": "TV y Video",
-            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
-            "ctaAction": "/category/3051",
+            "id": 2619,
+            "name": "Moda Mujeres",
+            "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/6d7ab19a-adde-4499-b1fe-7b3ff55df4ae___b69b3f7a39b125603e9b4cf9b65d88ee.png",
+            "ctaAction": "/category/2619",
             "order": 1
           },
           {
-            "id": 3052,
-            "name": "Televisores",
-            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
-            "ctaAction": "/category/3052",
+            "id": 2618,
+            "name": "Moda Hombre",
+            "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/d0c692cc-db1c-491a-ac9e-8c3b2bdd3f2b___6d6faa7d54d73e9fabcd9e231df45a32.png",
+            "ctaAction": "/category/2618",
             "order": 2
+          },
+          {
+            "id": 477,
+            "name": "Electrónica",
+            "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/82d4f9d3-b75b-4377-8f73-8b6d1b1151d9___a19ac06d4d4983124a0f8359e75024eb.png",
+            "ctaAction": "/category/477",
+            "order": 3
           },
           {
             "id": 719,
             "name": "Cuidado personal",
-            "image": "https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=300&h=300&fit=crop",
+            "image": "https://kliqueado.vtexassets.com/assets/vtex.file-manager-graphql/images/17669773-750d-4a37-937c-36c2023c5a55___8176f4bd2fb46faf1ea8e0cc9ede8b3e.png",
             "ctaAction": "/category/719",
-            "order": 3
+            "order": 4
           }
         ]
       },
